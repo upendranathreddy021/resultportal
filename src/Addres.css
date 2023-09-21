@@ -1,0 +1,25 @@
+.main{
+    margin:3% 10% 10% 20%;
+    width: 30%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.main input{
+    width: 40vh;
+    outline: none;
+    height: 4vh;
+    margin: 2vh 0vh 2vh 0vh ;
+    border: none;
+    border-bottom: 3px solid black;
+
+
+}
+.main button{
+  
+    height: 5vh;
+    font-size: 22px;
+    font-family: monospace;
+    font-weight: 600;
+    background-color: blueviolet;
+}
